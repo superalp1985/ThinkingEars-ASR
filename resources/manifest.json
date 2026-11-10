@@ -1,0 +1,10 @@
+{
+  "entries": 578895,
+  "source": "AI开放剧本模拟器 V5 / master_dict.json",
+  "source_sha256": "6fb17f8c31bccc6e982e6fd7167968a8f9e172c7e52c7375dbb2674736007b42",
+  "source_bytes": 102961808,
+  "lexicon_sha256": "dd3b1a2cebd6ad26683f7bf02d1f2a781bf94d688a429e4fdc5a04587d6e57a2",
+  "runtime_resource": "src/thinkingears_asr/data/lexicon.json.gz",
+  "annotated_resource": "resources/master_dict.json.gz",
+  "license": "ThinkingEars-ASR Noncommercial License v1.0; see LICENSE"
+}

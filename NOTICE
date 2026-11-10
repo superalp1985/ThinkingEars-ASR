@@ -1,0 +1,17 @@
+ThinkingEars-ASR
+
+Original ASR implementation and lexicon:
+AI开放剧本模拟器 V5
+https://github.com/superalp1985/AI-Open-Scenario-Simulator
+
+Original authors:
+王秉钦 / 王大粘
+金皓若 / 老金
+
+This distribution extracts the Python-compatible ASR core and helper
+functions from V5, makes model paths and vocabulary configurable, adds
+a model-independent text enhancement API, and packages the lexicon.
+
+The original noncommercial restriction is retained. See LICENSE.
+Optional third-party acoustic models are downloaded separately and
+remain governed by their original licenses.

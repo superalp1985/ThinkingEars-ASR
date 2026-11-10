@@ -1,0 +1,74 @@
+ThinkingEars-ASR 非商业许可协议
+ThinkingEars-ASR Noncommercial License v1.0
+
+Copyright (c) 2026 王秉钦（王大粘）、金皓若（老金）
+保留所有权利。All rights reserved.
+
+本项目从“AI开放剧本模拟器 V5”的 ASR 实现中独立整理而来。
+本协议延续原项目的非商业使用限制。
+
+一、许可范围
+
+在遵守本协议的前提下，允许个人及机构为非商业目的：
+
+1. 下载、运行、研究本项目的源码和随附词库；
+2. 在个人学习、非商业研究、非商业教学及个人非营利项目中使用本项目；
+3. 修改源码或词库，并制作非商业衍生作品；
+4. 免费复制、分享和再分发原版或修改版。
+
+二、必须保留的信息
+
+使用、修改或再分发本项目时，必须：
+
+1. 保留项目名称、原作者署名、版权声明和完整许可协议；
+2. 保留本协议的非商业使用限制；
+3. 明确标注所作修改，且不得暗示修改版获得原作者背书；
+4. 不得声称自己是原始项目、原始源码或原始词库的作者。
+
+三、商业使用限制
+
+未经相关权利人事先书面授权，不得以直接或间接获取商业利益、
+商业报酬或支持商业经营为主要目的使用本项目，包括但不限于：
+
+1. 售卖、出租、付费授权本项目、词库或其修改版本；
+2. 将本项目集成到收费产品、订阅服务、商业 SaaS、商业 API、
+   付费课程、商业素材包或商业发行的软件中；
+3. 用于商业客户交付、企业内部商业经营、收费部署、商业外包；
+4. 借助本项目开展商业广告、商业推广、付费会员内容或广告变现。
+
+是否免费提供某个最终产品，不单独决定该用途是否属于商业用途。
+涉及上述商业目的时，仍须另行取得书面商业授权。
+
+四、衍生作品和第三方内容
+
+对本项目进行修改、封装、编译、部署或再分发，不会自动移除本协议。
+不得通过另行附加宽松许可的方式取消原项目的署名和非商业限制。
+
+第三方软件、声学模型、数据及其他属于第三方的内容，由各自权利人
+的原始许可独立约束。本协议仅授予许可方有权授予的权利，不替代、
+扩大或取消任何第三方许可，也不转让第三方的权利。
+
+五、免责声明
+
+本项目按“现状”提供，不作任何明示或默示保证，包括适销性、
+特定用途适用性、识别准确率、延迟、持续可用性或不侵权保证。
+在适用法律允许的范围内，作者和贡献者不对因使用、修改或分发
+本项目而产生的损失、责任或其他请求承担责任。
+
+六、终止与商业授权
+
+违反本协议时，本协议授予的许可自动终止。
+如需商业使用或不同范围的许可，请通过原作者的 GitHub 仓库联系，
+并在使用前取得相关权利人的书面授权。
+
+七、语言
+
+本协议以中文条款为准。以下英文摘要仅用于帮助理解：
+
+Noncommercial use, study, modification and redistribution are permitted
+only under the conditions above. Keep attribution, copyright notices and
+this license. Clearly identify modifications. Commercial use requires
+prior written permission from the relevant rights holders. Third-party
+components and data retain their own licenses. The software is provided
+as is, without warranties. This is a source-available, noncommercial
+license; it is not the MIT, Apache, BSD or GPL license.

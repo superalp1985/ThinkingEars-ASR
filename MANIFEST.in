@@ -1,0 +1,6 @@
+include LICENSE NOTICE
+recursive-include resources *.json *.gz
+recursive-include docs *.md
+recursive-include examples *.py *.json
+recursive-include tests *.py
+recursive-include src/thinkingears_asr/data *.gz

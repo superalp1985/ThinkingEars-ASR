@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "thinkingears-asr"
+version = "0.1.0"
+description = "Chinese ASR enhancement with a 578,895-entry lexicon"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "LicenseRef-ThinkingEars-ASR-Noncommercial-1.0"
+license-files = ["LICENSE", "NOTICE"]
+authors = [
+  {name = "王秉钦 / 王大粘"},
+  {name = "金皓若 / 老金"},
+]
+dependencies = ["numpy>=1.24", "pypinyin>=0.50"]
+
+[project.optional-dependencies]
+audio = ["sherpa-onnx>=1.10", "sounddevice>=0.4"]
+dev = ["build>=1.2"]
+
+[project.scripts]
+thinkingears = "thinkingears_asr.cli:main"
+
+[project.urls]
+Repository = "https://github.com/superalp1985/ThinkingEars-ASR"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+thinkingears_asr = ["data/*.gz"]
