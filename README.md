@@ -4,7 +4,7 @@
 
 **仅限非商业用途。商业使用须事先取得书面授权。** 详见 [LICENSE](LICENSE)。
 
-从 [AI开放剧本模拟器 V5](https://github.com/superalp1985/AI-Open-Scenario-Simulator) 的实际 ASR 实现中独立整理，原作者：王秉钦（王大粘）、金皓若（老金）。
+从 [AI开放剧本模拟器 V5](https://github.com/superalp1985/AI-Open-Scenario-Simulator) 的实际 ASR 实现中独立整理，原作者：王秉钦（王大粘）。
 
 ## 安装
 
